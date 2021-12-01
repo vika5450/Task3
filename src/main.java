@@ -1,9 +1,6 @@
 import java.util.Scanner;
-/**
- * @author ED
- */
+//
 public class main {
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = 1;
